@@ -1,0 +1,58 @@
+{
+    "update_id": 800741417,
+    "callback_query": {
+        "id": "4383779051085877048",
+        "from": {
+            "id": 1020678098,
+            "is_bot": false,
+            "first_name": "\ud81a\udcd4\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\u20dd\u035c\u0361\u272e\u035c\u0361Darknet\u272e\u035c",
+            "username": "SHMIRZANAZAROV",
+            "language_code": "ru"
+        },
+        "message": {
+            "message_id": 35,
+            "from": {
+                "id": 5501973042,
+                "is_bot": true,
+                "first_name": "GameBot",
+                "username": "game_o_x_bot"
+            },
+            "chat": {
+                "id": 1020678098,
+                "first_name": "\ud81a\udcd4\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\u20dd\u035c\u0361\u272e\u035c\u0361Darknet\u272e\u035c",
+                "username": "SHMIRZANAZAROV",
+                "type": "private"
+            },
+            "date": 1654757726,
+            "text": "Quyida siz uchun tizimda mavjud barcha o'yinlar ruyxati keltirilgan, o'zingiz uchun istalgan o'yinni tanlang !",
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "\ud83d\udca1 O'yinlar qanday o'ynaladi ?",
+                            "callback_data": "game||faq"
+                        },
+                        {
+                            "text": "\ud83c\udfae Barcha o'yinlar ?",
+                            "callback_data": "game||count"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "Mevalar kartasi \u270c\ufe0f",
+                            "callback_data": "game||cards"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "Omadshou Virtual \ud83c\udff5",
+                            "callback_data": "game||omadshou"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "-6210735638903524625",
+        "data": "game||cards"
+    }
+}
